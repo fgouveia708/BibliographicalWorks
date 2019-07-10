@@ -3,7 +3,7 @@
 
 Chef's Snacks é uma aplicação demonstrativa que visa mostrar técnicas de arquitetura, desenvolvimento e distribuição de software utilizando ferramentas como .NET Core, Angular 7, Bootstrap, Docker, Nginx e Jenkins.
 
-- [Chef's Snacks](https://github.com/fgouveia708/BibliographicalWorks#chefs-snacks)
+- [Obras Bibliográficas](https://github.com/fgouveia708/BibliographicalWorks#obras-bibliogr%C3%A1ficas)
     - [Introdução](https://github.com/fgouveia708/BibliographicalWorks#introdu%C3%A7%C3%A3o)
     - [Briefing](https://github.com/fgouveia708/BibliographicalWorks#briefing)
     - [Requisitos técnicos](https://github.com/fgouveia708/BibliographicalWorks#requisitos-t%C3%A9cnicos)
