@@ -1,7 +1,7 @@
 
 # Obras Bibliográficas
 
-Chef's Snacks é uma aplicação demonstrativa que visa mostrar técnicas de arquitetura, desenvolvimento e distribuição de software utilizando ferramentas como .NET Core, Angular 7, Bootstrap, Docker, Nginx e Jenkins.
+Obras Bibliográficas é uma aplicação demonstrativa que apresenta conhecimentos de lógica, domínio em C# e Teste Unitários utilizando ferramentas como .NET Core.
 
 - [Obras Bibliográficas](https://github.com/fgouveia708/BibliographicalWorks#obras-bibliogr%C3%A1ficas)
     - [Introdução](https://github.com/fgouveia708/BibliographicalWorks#introdu%C3%A7%C3%A3o)
