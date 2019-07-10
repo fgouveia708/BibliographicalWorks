@@ -1,7 +1,7 @@
 
 # Obras Bibliográficas
 
-Obras Bibliográficas é uma aplicação demonstrativa que apresenta conhecimentos de lógica, domínio em C# e Teste Unitários utilizando ferramentas como .NET Core.
+Obras Bibliográficas é uma aplicação demonstrativa que apresenta conhecimentos de lógica, domínio em C# e Teste Unitários utilizando .NET Core.
 
 - [Obras Bibliográficas](https://github.com/fgouveia708/BibliographicalWorks#obras-bibliogr%C3%A1ficas)
     - [Introdução](https://github.com/fgouveia708/BibliographicalWorks#introdu%C3%A7%C3%A3o)
